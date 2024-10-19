@@ -12,9 +12,8 @@ Modern Aesthetic: Stylish button design and layout for an enjoyable user experie
 Installation
 
 
-Install .EXE file and RUN, EASY-PEASY.
+Install .exe file and RUN, EASY-PEASY.
 
 USAGE
-
 
 Generates an Endless Amounts of Unique names for usage in codes with a compact sticky note disign for people who struggle to come up with names while coding.

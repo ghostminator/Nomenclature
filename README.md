@@ -1,6 +1,6 @@
 # Nomenclature
 
-A simple GUI application built with Python's tkinter that generates unique names by combining predefined prefixes and suffixes. This tool is perfect for developers and creators who need inspiration for naming variables, classes, functions, or even projects.
+Creates Endless Cool Coding Names for people who struggle comming up with names while Coding.
 
 Features
 
@@ -11,8 +11,10 @@ Modern Aesthetic: Stylish button design and layout for an enjoyable user experie
 
 Installation
 
+
 Install .EXE file and RUN, EASY-PEASY.
 
 USAGE
+
 
 Generates an Endless Amounts of Unique names for usage in codes with a compact sticky note disign for people who struggle to come up with names while coding.
